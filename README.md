@@ -1,5 +1,5 @@
 # Project Google Glass
-Um projeto que destaca as carácteristicas do Google Glass, um acesório revolucionário
+Um projeto que destaca as características do Google Glass, um acesório revolucionário
 
 ## 🛠️ Linguagens de Programação
 <p>O Projeto foi desenvolvido em HTML,CSS e JavaScript.</p>
